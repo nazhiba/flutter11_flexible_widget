@@ -1,6 +1,13 @@
 # flutter11_flexible_widget
 
 A new Flutter project.
+Pembelajaran mengenai penggunaan
+```Flexible```
+Responsive size
+```Row```
+Horizontal
+```Column```
+Vertikal
 
 ## Getting Started
 
